@@ -1,4 +1,4 @@
-# I'm Alex
+# Hi! I'm Alex 👋
 
 🇺🇸 ✈️ 🇩🇪
 
