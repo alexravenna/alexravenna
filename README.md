@@ -8,4 +8,4 @@ I'm particularly interested in improving the developer experience (DX): document
 
 [![alexravenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexravenna&theme=slateorange&border_color=000000&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://app.daily.dev/alexravenna"><img src="https://api.daily.dev/devcards/v2/GYnsG7R0xCk0mmceL9Pka.png?type=default&r=bu3" width="356" alt="Alex Ravenna's Dev Card"/></a>
+<a href="https://app.daily.dev/alexravenna"><img src="./devcard.png" width="356" alt="Alex Ravenna's Dev Card"/></a>
