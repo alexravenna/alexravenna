@@ -10,4 +10,6 @@ I'm particularly interested in improving the developer experience (DX): document
 
 [![alexravenna's GitHub stats](https://github-stats-extended.vercel.app/api?username=alexravenna&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=slateorange)](https://github-stats-extended.vercel.app/api?username=alexravenna&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=slateorange)
 
+Stats from [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended)
+
 <a href="https://app.daily.dev/alexravenna"><img src="./devcard.png" width="356" alt="Alex Ravenna's Dev Card"/></a>
